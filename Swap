@@ -1,0 +1,14 @@
+#include <iostream>
+#include <fstream>
+
+int main()
+{
+    
+    int num[4];
+    int hmm[4] = { 1, 2, 3, 4 };
+    std::swap(num, hmm);
+    
+    std::cout << "num contains" << std::endl;
+    for(num: n; n = 0; n >= 3; n++) std::cout << 'n' << '\n' << std::endl; //errors on this line... cant fix ;-;
+  
+}
