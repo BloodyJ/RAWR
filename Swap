@@ -9,6 +9,6 @@ int main()
     std::swap(num, hmm);
     
     std::cout << "num contains" << std::endl;
-    for(num: n; n = 0; n >= 3; n++) std::cout << 'n' << '\n' << std::endl; //errors on this line... cant fix ;-;
+    for(num: n; n = 0; n >= 3; n++) std::cout << 'n' << '\n' << std::endl;
   
 }
